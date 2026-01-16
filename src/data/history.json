@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Software Developer",
+    "organisation": "Pacific Science & Engineering",
+    "startDate": "Apr, 2022",
+    "endDate": "Nov, 2025",
+    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "imageSrc": "history/pseLogo.png"
+  },
+  {
+    "role": "Full Stack Developer",
+    "organisation": "Den Social App",
+    "startDate": "May, 2020",
+    "endDate": "Apr, 2022",
+    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "imageSrc": "history/denLogo.png"
+  },
+  {
+    "role": "Packaging and Parts Inspector",
+    "organisation": "Williams Aerospace",
+    "startDate": "Jun, 2016",
+    "endDate": "Feb, 2018",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/wamLogo.png"
+  }
+]
